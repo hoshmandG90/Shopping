@@ -25,11 +25,23 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
 ## Laravel Sponsors
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+
+## Demo project you can see the screenshot in order to get it how we did it !
+![Kurd Shop - Google Chrome 3_17_2022 4_17_25 PM](https://user-images.githubusercontent.com/90029989/158816967-fcead67d-d277-4559-ba7f-df548536ff4c.png)
+![Kurd Shop - Google Chrome 3_17_2022 4_17_36 PM](https://user-images.githubusercontent.com/90029989/158817043-22e51a5a-df7f-4eba-b9a1-494c10f8d6de.png)
+![Kurd Shop - Google Chrome 3_17_2022 4_18_04 PM](https://user-images.githubusercontent.com/90029989/158817088-a20d891f-265c-4810-8c8a-ecde1e890ee0.png)
+![Kurd Shop - Google Chrome 3_17_2022 4_18_22 PM](https://user-images.githubusercontent.com/90029989/158817103-d0f0d71e-da9a-4c85-b5fd-4002a2325085.png)
+
+
+
+
+
+
 
 ### Premium Partners
 
@@ -44,8 +56,10 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[DevSquad](https://devsquad.com)**
 - **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
 - **[OP.GG](https://op.gg)**
+- **[CMS Max](https://www.cmsmax.com/)**
 - **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
 - **[Lendio](https://lendio.com)**
+- **[Romega Software](https://romegasoftware.com)**
 
 ## Contributing
 
