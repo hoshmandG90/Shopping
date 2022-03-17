@@ -53,7 +53,7 @@ class Register extends Component
 
         notyf()->livewire()->position('y','top')->addSuccess('user has been created successfully');
         $this->resetInput();
-        return redirect()->to(route('welcome'));
+        return redirect()->to(route('Login'));
     }
 
     private function resetInput(){

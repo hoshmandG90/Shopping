@@ -3,7 +3,7 @@
         <div class="container  p-6 mx-auto space-y-6 sm:space-y-12">
             <a rel="noopener noreferrer" href="#"
                 class="block max-w-sm gap-3 mx-auto sm:max-w-full group hover:no-underline focus:no-underline lg:grid lg:grid-cols-12 dark:bg-coolGray-900">
-                <img src="https://images.pexels.com/photos/163046/welcome-to-our-home-welcome-tablet-an-array-of-163046.jpeg?cs=srgb&dl=pexels-pixabay-163046.jpg&fm=jpg" alt=""
+                <img src="{{ asset('assets/img/clothes.jpg') }}" alt=""
                     class="object-cover w-full h-64 rounded sm:h-96 lg:col-span-7 dark:bg-coolGray-500">
                 <div class="p-6 space-y-2 lg:col-span-5">
                     <h3 class="text-2xl font-semibold sm:text-4xl group-hover:underline group-focus:underline">Welcome Shopping Mall</h3>

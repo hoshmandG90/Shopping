@@ -7,7 +7,7 @@
     <section class="flex flex-col  md:flex-row  items-center mb-12">
 
         <div class="bg-indigo-600  lg:block w-full md:w-1/2 xl:w-2/3 ">
-            <img src="https://images.pexels.com/photos/934070/pexels-photo-934070.jpeg?cs=srgb&dl=pexels-ylanite-koppens-934070.jpg&fm=jpg" alt=""
+            <img src="{{ asset('assets/img/clo.jpg') }}" alt=""
                 class="w-full h-full object-cover img-fluid img-responsive rounded-lg">
         </div>
         <div class="bg-white w-full md:max-w-md lg:max-w-full md:mx-auto md:mx-0 md:w-1/2 xl:w-1/3 h-screen px-6 lg:px-16 xl:px-12
