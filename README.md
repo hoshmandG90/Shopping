@@ -25,11 +25,22 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
 ## Laravel Sponsors
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+
+## Demo project you can see the screenshot in order to get it how we did it !
+![Welcome - Google Chrome 1_28_2022 10_39_30 PM](https://user-images.githubusercontent.com/90029989/151611354-61d92521-7235-490c-8bbe-e2e8884d13ee.png)
+![Welcome - Google Chrome 1_28_2022 10_39_37 PM](https://user-images.githubusercontent.com/90029989/151611405-2c15167e-e98a-42ee-b55f-ee5d93278b09.png)![Welcome - Google Chrome 1_28_2022 10_39_48 PM](https://user-images.githubusercontent.com/90029989/151611417-f3f7c6da-4653-4a02-a0cc-5e13cd0b968d.png)
+![Welcome - Google Chrome 1_28_2022 10_39_54 PM](https://user-images.githubusercontent.com/90029989/151611430-85411796-1626-4ca7-a450-357b4b47c369.png)
+![Welcome - Google Chrome 1_28_2022 10_40_00 PM](https://user-images.githubusercontent.com/90029989/151611453-3f68919d-30f2-4e11-9d1d-7f28f9064cf8.png)
+
+
+
+
+
 
 ### Premium Partners
 
@@ -44,8 +55,10 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[DevSquad](https://devsquad.com)**
 - **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
 - **[OP.GG](https://op.gg)**
+- **[CMS Max](https://www.cmsmax.com/)**
 - **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
 - **[Lendio](https://lendio.com)**
+- **[Romega Software](https://romegasoftware.com)**
 
 ## Contributing
 
