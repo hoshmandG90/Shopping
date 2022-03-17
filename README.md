@@ -32,10 +32,11 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
 ## Demo project you can see the screenshot in order to get it how we did it !
-![Welcome - Google Chrome 1_28_2022 10_39_30 PM](https://user-images.githubusercontent.com/90029989/151611354-61d92521-7235-490c-8bbe-e2e8884d13ee.png)
-![Welcome - Google Chrome 1_28_2022 10_39_37 PM](https://user-images.githubusercontent.com/90029989/151611405-2c15167e-e98a-42ee-b55f-ee5d93278b09.png)![Welcome - Google Chrome 1_28_2022 10_39_48 PM](https://user-images.githubusercontent.com/90029989/151611417-f3f7c6da-4653-4a02-a0cc-5e13cd0b968d.png)
-![Welcome - Google Chrome 1_28_2022 10_39_54 PM](https://user-images.githubusercontent.com/90029989/151611430-85411796-1626-4ca7-a450-357b4b47c369.png)
-![Welcome - Google Chrome 1_28_2022 10_40_00 PM](https://user-images.githubusercontent.com/90029989/151611453-3f68919d-30f2-4e11-9d1d-7f28f9064cf8.png)
+![Kurd Shop - Google Chrome 3_17_2022 4_17_25 PM](https://user-images.githubusercontent.com/90029989/158816967-fcead67d-d277-4559-ba7f-df548536ff4c.png)
+![Kurd Shop - Google Chrome 3_17_2022 4_17_36 PM](https://user-images.githubusercontent.com/90029989/158817043-22e51a5a-df7f-4eba-b9a1-494c10f8d6de.png)
+![Kurd Shop - Google Chrome 3_17_2022 4_18_04 PM](https://user-images.githubusercontent.com/90029989/158817088-a20d891f-265c-4810-8c8a-ecde1e890ee0.png)
+![Kurd Shop - Google Chrome 3_17_2022 4_18_22 PM](https://user-images.githubusercontent.com/90029989/158817103-d0f0d71e-da9a-4c85-b5fd-4002a2325085.png)
+
 
 
 
