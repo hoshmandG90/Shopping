@@ -44,7 +44,7 @@
                         <div>
                             <div class=" mb-40 rounded-lg bg-gray-100 mb-4">
                                 <div class=" rounded-lg bg-gray-100 mb-4 flex items-center justify-center">
-                                    <img src="/Uploads/Clothes/{{ $clothes->image }}" role="img"
+                                    <img src="/Uploads/Electronics/{{ $clothes->image }}" role="img"
                                         class="img-fluid  img-responsive"
                                         class="rounded-lg  object-cover h-full w-full shadow-md" />
                                 </div>

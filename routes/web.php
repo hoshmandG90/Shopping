@@ -52,5 +52,7 @@ Route::get('Clothes/{id}',App\Http\Controllers\Clothes\Details::class)->name('de
 Route::get('NewClothes',App\Http\Controllers\Clothes\Index::class)->name('ViewClo');
 
 
+Route::get('Sales',App\Http\Controllers\Admin\Sales::class)->name('sales');
+
 
 

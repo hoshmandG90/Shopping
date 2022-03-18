@@ -22,7 +22,7 @@
                     class="max-w-sm mx-auto hover:shadow-lg transition duration-300 ease-in-out group hover:no-underline focus:no-underline dark:bg-coolGray-900 hidden sm:block">
                     <img role="presentation" class="img-fluid  img-responsive" 
                     class="rounded-lg  object-cover h-full w-full shadow-md"
-                        src="/Uploads/Clothes/{{ $row->image }}">
+                        src="/Uploads/Electronics/{{ $row->image }}">
                     <div class="p-6 space-y-2">
                         <div class="flex justify-between">
                             <h3 class="text-2xl font-semibold group-hover:underline group-focus:underline">{{ $row->title }}</h3>

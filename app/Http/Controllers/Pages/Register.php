@@ -68,6 +68,6 @@ class Register extends Component
   
     public function render()
     {
-        return view('pages.register')->extends('layouts.master');
+        return view('pages.register')->extends('layouts.base');
     }
 }

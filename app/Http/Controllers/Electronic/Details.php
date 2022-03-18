@@ -18,12 +18,14 @@ class Details extends Component{
     {
         if($this->quantity){
             Sales::create([
+                'customer_name'=>auth()->user()->name,
                 'title' => $this->electronic->title,
                 'excerpt' => $this->electronic->excerpt,
                 'price' => $this->electronic->price,
                 'quantity' => $this->quantity,
                 'location' => $this->electronic->location,
                 'brand' => $this->electronic->brand,
+                'image' => $this->electronic->image,
             ]);
             notyf()->livewire()->position('y','top')->addSuccess("Your item has been added to cart");
             return redirect()->back();

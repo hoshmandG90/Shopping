@@ -5,10 +5,8 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class sales extends Model
+class checkout extends Model
 {
-    protected $table = 'sales';
+    protected $table = 'checkouts';
     public $guarded = [];
-
-  
 }

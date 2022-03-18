@@ -21,12 +21,15 @@ class Details extends Component
     {
         if($this->quantity){
             Sales::create([
+                'customer_name'=>auth()->user()->name,
                 'title' => $this->clothes->title,
                 'excerpt' => $this->clothes->excerpt,
                 'price' => $this->clothes->price,
                 'quantity' => $this->quantity,
                 'location' => $this->clothes->location,
                 'brand' => $this->clothes->brand,
+                'image' => $this->clothes->image,
+
             ]);
             notyf()->livewire()->position('y','top')->addSuccess("Your item has been added to cart");
             return redirect()->back();

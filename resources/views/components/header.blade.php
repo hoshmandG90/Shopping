@@ -53,6 +53,33 @@
                 rounded-lg md:mt-0 md:ml-4 capitalize  md:mt-0 {{ Request::is('Clothes') ? 'text-indigo-500 font-bold' : 'text-gray-900'}} "
                     href="{{ route('Clothes') }}">clothes</a>
 
+                @auth
+
+                @if ($authentication)
+                    
+                <a class="px-4 py-2 mt-2   bg-gray-200    font-semibold bg-transparent 
+                    rounded-lg md:mt-0 md:ml-4 capitalize  md:mt-0  " href="{{ route('sales') }}">
+                    <div class="flex justify-between">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24"
+                            stroke="currentColor" stroke-width="2">
+                            <path stroke-linecap="round" stroke-linejoin="round"
+                                d="M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z" />
+                        </svg>
+                        <span class="text-red-500 ml-2">
+                            {{ $sales }}
+                        </span>
+                    </div>
+
+
+                </a>
+                @endif
+
+
+
+
+                @endauth
+
+
                 @guest
                 <a class=" py-2 text-red-500 font-bold hover:text-red-800 mt-2 uppercase  text-sm font-semibold  rounded-lg  md:mt-0 md:ml-4  "
                     href="{{ route('Login') }}"> Login</a>

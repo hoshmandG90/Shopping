@@ -65,7 +65,7 @@
                             <div class="rounded hover:shadow-lg transition duration-700  ease-in-out shadow-md bg-white px-4" >
                                 <div class=" -mt-20 w-full flex justify-center">
                                     <div class="">
-                                        <img src="Uploads/Clothes/{{ $item->image }}"
+                                        <img src="Uploads/Electronics/{{ $item->image }}"
                                              role="img" class="img-fluid  img-responsive" 
                                             class="rounded-lg  object-cover h-full w-full shadow-md" />
                                     </div>

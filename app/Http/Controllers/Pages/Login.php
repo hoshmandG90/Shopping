@@ -32,6 +32,6 @@ class Login extends Component
     }
     public function render()
     {
-        return view('pages.login')->extends('layouts.master');
+        return view('pages.login')->extends('layouts.base');
     }
 }
